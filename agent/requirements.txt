@@ -1,0 +1,3 @@
+livekit-agents[anthropic,liveavatar]>=1.8,<1.9
+python-dotenv
+httpx
